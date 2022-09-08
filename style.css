@@ -9,6 +9,8 @@
 
 button {
     background-color: #0088a9;
+    border-radius: 20px;
+    padding: 13px;
 }
 
 .logo, li, a, button, .LeadText, div {
@@ -57,6 +59,7 @@ header {
     width: 300px;
     height: auto; 
     border: 10px solid black;
+    border-radius: 25px;
 }
 
 .LeadContainer button {
@@ -98,6 +101,7 @@ div.photos > *, div.SubPhotos > * {
     width: 200px;
     height: auto; 
     border: 10px solid black;
+    border-radius: 25px;
 }
 
 .QuoteContainer, .SubQuote {
@@ -136,6 +140,7 @@ div.photos > *, div.SubPhotos > * {
 .ActionContainer, .ActionBody, .ActionTitle, .ActionText{
     background-color: darkcyan;
     justify-content: center;
+    border-radius: 10px;
 }
 
 .ActionText {
